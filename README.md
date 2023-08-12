@@ -1,2 +1,2 @@
 # Neetcode
-Practice interview problems and it's explanation
+Practiced interview problems and it's detailed explanation 
