@@ -11,3 +11,7 @@ class solution{
         return false;
     }
 };
+
+#Unordered set is used for faster retrieval ad used for large datasets
+#if s.find()!=s.end() means it has a duplicate that 
+#means if there is a duplicate it returns the iterates that pointer or give back the s.end()
