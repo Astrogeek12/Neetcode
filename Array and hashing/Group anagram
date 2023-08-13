@@ -1,3 +1,16 @@
 vector<vector<string> --->> 2D array
 vector<string> -->> 1D arrray
+So basically in this, we need to find the key which is the count of the characters in a string [for eat it is 1e,1a,1t] 
+this is the key and the value will be the vector of strings which match the key for this we need to use a hashmap data structure
+
+Time complexity is O(mn) m: The number of inputs, n: Length of each string
+push_back function is used to add element in the end of the vector
+
+str[j] - 'a' calculates the index of the character in the count vector. 
+Since characters are represented as integers (ASCII values), 
+subtracting the value of 'a' ('a' is 97 in ASCII) will give the index in the range of 0 to 25
+
+auto is a keyword in C++ that allows the compiler to automatically deduce the data type of a variable 
+based on its initializer. It is often used to simplify code and make it more readable by reducing the 
+need to explicitly declare the data type of a variable
 
