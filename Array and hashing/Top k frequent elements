@@ -47,6 +47,13 @@ s.insert(l.begin(),l.end());
     }
 };
 
+Another method with O(nlogn) using max heap , but there is also method which takes only O(n), We will see that now !!
+Done using bucket sort (where we take the input array one as the count and other as the value) and hash map
+
+
+
+
+
 
 
 
