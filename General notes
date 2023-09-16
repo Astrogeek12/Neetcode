@@ -2,3 +2,4 @@ vecotr<int> - dynamic array
 vector<int>& - container which holds the integer
 vector<vector<int>> - 2 dimensional dynamic array 
 Dynamic array - have memory flexibility , std::vector
+pointer variable is a container which stores the address of other variable
